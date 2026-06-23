@@ -1,35 +1,69 @@
-# Food Delivery Landing Page
+# FSF-Assignment 04-D - Static Frontend Website
 
-A modern food delivery landing page developed using HTML and CSS as part of my front-end web development practice and portfolio projects.
+This project is a static frontend website developed using **HTML5** and **CSS3** as part of a frontend web development assignment. The goal of this project is to practice building visually appealing web pages using only HTML and CSS without relying on JavaScript or external frameworks.
 
-## Features
+The website features a clean and structured layout with multiple content sections, modern typography, custom styling, and organized code. It demonstrates the fundamentals of semantic HTML, CSS positioning, spacing, alignment, colors, and overall UI design.
 
-- Clean Navigation Bar
-- Hero Section with Call-to-Action Button
-- Popular Dishes Section
-- About Us Section
-- Customer Reviews Section
-- Attractive Color Scheme
-- Beginner-Friendly Code Structure
+> ⚠️ **Note:** This project is **not responsive** and is optimized for desktop screens only.
 
-## Technologies Used
+---
+
+## 🚀 Technologies Used
 
 - HTML5
 - CSS3
-- Font Awesome
 
-## Purpose
+---
 
-This project was developed as a practice assignment to improve front-end web development skills and gain hands-on experience with website layout design using HTML and CSS.
+## ✨ Features
 
-## Future Improvements
+- Modern static website
+- Semantic HTML structure
+- Custom CSS styling
+- Clean and organized code
+- Multiple webpage sections
+- Beginner-friendly frontend project
+- No JavaScript
+- No CSS Frameworks
 
-- Add full responsiveness for mobile and tablet devices
-- Add animations and hover effects
-- Improve accessibility
-- Add JavaScript functionality
+---
 
-## Author
+## 📁 Project Structure
 
-Fatima Shabbir
-Aspiring Full Stack Web Developer
+```
+FSF-Assignment-04-D/
+│
+├── index.html
+├── style.css
+├── assets/
+└── README.md
+```
+
+---
+
+## 🎯 Learning Objectives
+
+This project was created to improve skills in:
+
+- Semantic HTML
+- CSS Styling
+- Webpage Layout Design
+- Typography
+- Color Theory
+- Spacing and Alignment
+- UI Design Principles
+- Frontend Development Fundamentals
+
+---
+
+## ⚠️ Limitations
+
+- Not Responsive
+- Desktop View Only
+- No JavaScript Functionality
+
+---
+
+## 👩‍💻 Author
+
+**Fatima Muhammad Shabbir**
