@@ -1,6 +1,6 @@
 # Food Delivery Landing Page
 
-A modern and visually appealing food delivery website created using HTML and CSS.
+A modern food delivery landing page developed using HTML and CSS as part of my front-end web development practice and portfolio projects.
 
 ## Features
 
